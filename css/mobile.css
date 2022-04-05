@@ -1,0 +1,14 @@
+#navbar {
+    flex-direction: column;
+    padding: 1rem 0;
+    height: 80px;
+    overflow: hidden;
+}
+
+#jokes .items {
+    flex-direction: column;
+}
+
+#jokes .items .item {
+    width: 90%;
+}
