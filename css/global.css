@@ -77,3 +77,11 @@
 #home.bg-yellow {
     background: #f7e13b;
 }
+
+#home.bg-yellow div h2 {
+    color: black;
+}
+
+#home.bg-yellow div p {
+    color: black;
+}

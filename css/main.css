@@ -99,10 +99,7 @@ html {
     /*  font-style: italic; */
     text-transform: lowercase;
     opacity: 0.8;
-}
-
-#home p.whitebg {
-    color: #fff;
+    color: #fff
 }
 
 #jokes {
