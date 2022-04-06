@@ -237,3 +237,9 @@ i {
     display: flex;
     flex-direction: column;
 }
+
+#contactmail {
+    font-size: 2rem;
+    padding: 10rem;
+    color: #fff;
+}
