@@ -8,6 +8,11 @@ a {
     color: #fff;
 }
 
+a.aresume {
+    text-decoration: none;
+    color: black;
+}
+
 html {
     font-family: 'Poppins', sans-serif;
 }
@@ -37,6 +42,34 @@ html {
     border-radius: 8px;
 }
 
+/* resume navbar colorization starts here */
+
+.resumenav#navbar ul li a#resa1:hover {
+    background: #f81e7d;
+    border-radius: 8px;
+}
+
+.resumenav#navbar ul li a#resa2:hover {
+    background: #83f024;
+    border-radius: 8px;
+}
+
+.resumenav#navbar ul li a#resa3:hover {
+    background: #f56235;
+    border-radius: 8px;
+}
+
+.resumenav#navbar ul li a#resa4:hover {
+    background: #3fb4f8;
+    border-radius: 8px;
+}
+
+.resumenav#navbar ul li a#resa5:hover {
+    background: #c83bf3;
+    border-radius: 8px;
+}
+
+/* resume navbar colorization ends here */
 /* home section */
 #home {
     display: flex;
@@ -107,7 +140,7 @@ html {
 }
 
 #status .container .ci3 {
-    background: #F7E13C;
+    background: #f7e13b;
 }
 
 #status .container .coitem img {
