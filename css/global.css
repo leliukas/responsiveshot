@@ -26,6 +26,10 @@
     background: #f7e13b;
 }
 
+.bg-black {
+    background: #22272E;
+}
+
 .container {
     max-width: 1100px;
     margin: 0 auto;
@@ -54,13 +58,14 @@
 }
 
 .btn-dark {
-    background: #333;
+    background: #22272E;
+    color: #fff;
 }
 
 .btn-dark:hover {
     background: #fff;
-    color: #333;
-    border: 1px solid #333;
+    color: #22272E;
+    border: 1px solid #22272E;
 }
 
 .btn-secondary {
