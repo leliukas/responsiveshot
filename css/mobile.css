@@ -13,6 +13,11 @@ body {
     overflow: hidden;
 }
 
+
+#navbar ul li a {
+    padding: 0rem 1rem;
+}
+
 #status {
     height: 28rem;
 }
