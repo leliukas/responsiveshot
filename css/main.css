@@ -190,3 +190,36 @@ html {
 #status .container .coitem ul li {
     list-style: none;
 }
+
+#resume-footbar {
+    background: #f7e13b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+#resume {
+    background: #f7e13b;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#resume div {
+    margin: 1rem;
+}
+
+#resume div ul {
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: column-reverse;
+    list-style-type: square;
+}
+
+#resume div ul ul {
+    display: flex;
+    flex-direction: column;
+}
