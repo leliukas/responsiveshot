@@ -2,6 +2,9 @@ html {
     display: flex;
 }
 
+body {
+    max-width: fit-content;
+}
 
 #navbar {
     flex-direction: column;
