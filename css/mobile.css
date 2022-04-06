@@ -1,3 +1,8 @@
+html {
+    display: flex;
+}
+
+
 #navbar {
     flex-direction: column;
     padding: 1rem 0;
@@ -5,8 +10,13 @@
     overflow: hidden;
 }
 
+#status {
+    height: 28rem;
+}
+
 #jokes .items {
     flex-direction: column;
+    margin-top: 5rem;
 }
 
 #jokes .items .item {
