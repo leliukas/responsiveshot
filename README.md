@@ -17,3 +17,7 @@ Agu, bugu.
 *6th of April, 2022.*
 
 The link to the video: https://youtu.be/y745R3Lv9WI
+
+---
+
+My live page: https://leliukas.github.io/responsiveshot/
